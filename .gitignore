@@ -3,3 +3,4 @@ db.sqlite3
 global_config.py
 __pycache__
 images/
+documentacion/
